@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10db350f-95a6-4a91-b7cd-41d2d7a52075": {
+      "ProjectGuid": "10db350f-95a6-4a91-b7cd-41d2d7a52075",
+      "DisplayName": "AgentGrps",
+      "ColorIndex": 0
+    },
+    "c34fe63f-a1d3-47f9-ac96-e6086d609050": {
+      "ProjectGuid": "c34fe63f-a1d3-47f9-ac96-e6086d609050",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "5da34cb7-fbd2-4a13-b7f0-e8bda0b534d5": {
+      "ProjectGuid": "5da34cb7-fbd2-4a13-b7f0-e8bda0b534d5",
+      "DisplayName": "Sender",
+      "ColorIndex": 2
+    },
+    "d71a7a30-23ff-4e9e-bbed-e68a45b1cac5": {
+      "ProjectGuid": "d71a7a30-23ff-4e9e-bbed-e68a45b1cac5",
+      "DisplayName": "Reciever",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
